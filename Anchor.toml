@@ -1,0 +1,47 @@
+[features]
+sealevel = true
+cpi = true
+
+[programs.localnet]
+evolve = "EVo1ve111111111111111111111111111111111111111"
+
+[registry]
+cluster = "mainnet-beta"  // Mainnet configuration 
+
+# EVOLVE Protocol API Documentation
+
+## Governance Endpoints
+
+### Create Proposal
+`POST /governance/proposals` 
+
+# EVOLVE Developer Guide
+
+## Environment Setup 
+
+# EVOLVE Protocol
+
+[![Build Status](https://ci.evolveprotocol.org/badge.svg)](https://ci.evolveprotocol.org)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-blue)](LICENSE)
+
+Decentralized evolution protocol for self-optimizing blockchain ecosystems.
+
+## Features
+- 🧬 Genetic proposal mutation
+- 🌉 Cross-chain governance
+- ⚖️ Dynamic voting models
+- 🏦 Multi-token reward system
+
+## Quick Start 
+
+## Documentation
+- [API Reference](API.md)
+- [Developer Guide](DEVELOPERS.md)
+- [White Paper](whitepaper.pdf)
+
+## License
+AGPL-3.0 © 2023 EVOLVE DAO 
+
+## Solana Client API
+
+### `createConnection(cluster: Cluster)` 
