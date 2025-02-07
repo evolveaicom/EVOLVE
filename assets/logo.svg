@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Evolution Spiral -->
+  <g transform="rotate(-10 200 200)">
+    <path d="M140,120 Q200,200 260,120 Q200,280 140,280 Q200,200 260,280" 
+          fill="none" stroke="#6366F1" stroke-width="5" opacity="0.9">
+      <animate attributeName="d" 
+               dur="6s" 
+               repeatCount="indefinite"
+               values="
+                 M140,120 Q200,200 260,120 Q200,280 140,280 Q200,200 260,280;
+                 M130,130 Q200,190 270,130 Q200,270 130,270 Q200,210 270,270;
+                 M140,120 Q200,200 260,120 Q200,280 140,280 Q200,200 260,280"
+      />
+    </path>
+  </g>
+  <!-- Central Mutation Circle -->
+  <circle cx="200" cy="200" r="60" fill="none" stroke="#10B981" stroke-width="4" opacity="0.95">
+    <animate attributeName="r" values="60;63;60" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Dollar Symbol -->
+  <text x="186" y="215" font-family="Arial" font-size="48" fill="#1A202C" font-weight="bold">$</text>
+  <!-- EVOLVE Text -->
+  <text x="200" y="330" font-family="Arial" font-size="32" font-weight="bold" fill="#1A202C" 
+       text-anchor="middle" letter-spacing="4">EVOLVE</text>
+</svg> 
