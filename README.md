@@ -89,7 +89,7 @@ npm run dev
 ## 📚 Documentation
 
 ### Core Documentation
-- [Technical Whitepaper](docs/whitepaper.pdf)
+- [Technical Whitepaper](docs/whitepaper.md)
 - [API Reference](docs/API.md)
 - [Developer Guide](docs/DEVELOPERS.md)
 
@@ -209,17 +209,17 @@ Follow us on Twitter: [@MemeEVOLVE_AI](https://x.com/MemeEVOLVE_AI)
 
 ## 📅 Roadmap
 
-### Q2 2024
+### Q2 2025
 - Launch mainnet beta
 - Implement cross-chain governance
 - Release advanced visualization tools
 
-### Q3 2024
+### Q3 2025
 - Enable multi-token evolution
 - Launch ecosystem grants
 - Expand AI capabilities
 
-### Q4 2024
+### Q4 2025
 - Implement advanced adaptation models
 - Launch mobile applications
 - Expand to additional chains
